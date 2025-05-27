@@ -1,0 +1,2 @@
+Good morning Kasongo, how are you doing?|tacotron_output/eval\speech-mel-00001.npy
+I am a student in Jomo Kenyatta University of Technology|tacotron_output/eval\speech-mel-00002.npy
